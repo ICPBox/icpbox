@@ -1,4 +1,4 @@
-### Hi there 👋
+### ICPBox is a DeFi wallet on the ICP chain. It is safe, professional, and easy to use. It supports ICP, NFT, and token asset management and transfer. 👋
 
 <!--
 **ICPBox/icpbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
